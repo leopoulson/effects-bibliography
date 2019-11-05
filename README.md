@@ -17,6 +17,10 @@ stone](https://github.com/effect-handlers/effects-rosetta-stone), a
 comparison of how computational effects and handlers are implemented
 in various programming languages.
 
+* **eff**: a (work in progress) extensible effects library for Haskell
+  by Alexis King
+  ([www](https://github.com/hasura/eff))
+
 * **Eff**: programming language with algebraic effects and handlers  
   by Andrej Bauer and Matija Pretnar  
   ([www](http://www.eff-lang.org/))
